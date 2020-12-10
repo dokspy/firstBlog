@@ -1,0 +1,21 @@
+.header{
+background-color: #f59885;
+height: 50px;
+width: 100%;
+}
+body{
+
+width: 50%;
+margin: 0 auto;
+font-family: 'Noto Sans', sans-serif;
+}
+h1{
+text-align: center;
+}
+hr{
+width: 99%;
+border: 1px solid orange;
+}
+h2{
+margin-top: 60px;
+}
